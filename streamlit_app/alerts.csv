@@ -1,0 +1,1189 @@
+device_encoded,browser_encoded,country_encoded,channel_encoded,log_amount,amount,txn_hour,is_night,is_fraud,model_prob,risk_score
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.437795
+Name: log_amount, dtype: float64","0    1698.0
+Name: amount, dtype: float64","0    3
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    0
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.300074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.914135
+Name: log_amount, dtype: float64","0    2734.68
+Name: amount, dtype: float64","0    1
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    1
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.400074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.914135
+Name: log_amount, dtype: float64","0    2734.68
+Name: amount, dtype: float64","0    1
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    1
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.400074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.914135
+Name: log_amount, dtype: float64","0    2734.68
+Name: amount, dtype: float64","0    1
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    1
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.400074
+Name: risk_score, dtype: float64"
+"0    0
+Name: device_encoded, dtype: int8","0    0
+Name: browser_encoded, dtype: int8","0    0
+Name: country_encoded, dtype: int8","0    0
+Name: channel_encoded, dtype: int8","0    7.914135
+Name: log_amount, dtype: float64","0    2734.68
+Name: amount, dtype: float64","0    1
+Name: txn_hour, dtype: int64","0    1
+Name: is_night, dtype: int64","0    1
+Name: is_fraud, dtype: int64","0    0.000123
+Name: model_prob, dtype: float32","0    0.400074
+Name: risk_score, dtype: float64"

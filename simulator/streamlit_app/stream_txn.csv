@@ -1,0 +1,2 @@
+user_id,country,device,browser,merchant_id,amount,txn_hour,is_night,channel,is_fraud
+2388ee2b-3b90-4c7a-8e24-1c8560bacb46,VU,MacOS,Edge,eff625a2-285e-43df-a1f2-fda0db326dae,1946.89,5,1,Online,0

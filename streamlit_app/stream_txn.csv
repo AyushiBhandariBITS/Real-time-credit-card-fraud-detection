@@ -1,0 +1,2 @@
+user_id,country,device,browser,merchant_id,amount,txn_hour,is_night,channel,is_fraud
+0e51f30d-c6a7-4e39-84b0-32ccd7c524a5,UK,iOS,Safari,ce177b4e-0837-48a3-9261-a7ab3aa2e4f9,234.97,16,0,POS,0
